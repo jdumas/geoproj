@@ -132,8 +132,8 @@ gazebo_declare(cli11
 )
 
 gazebo_declare(geogram
-    GIT_REPOSITORY https://github.com/jdumas/geogram.git
-    GIT_TAG        592cad213c06cfcb1197ddb84b7e7a64a97e620c
+    GIT_REPOSITORY https://github.com/alicevision/geogram.git
+    GIT_TAG        v1.7.1
 )
 
 gazebo_declare(sanitizers
